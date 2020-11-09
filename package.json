@@ -4,7 +4,7 @@
   "description": "BCCA corporate website built with [eleventy](https://www.11ty.dev/).",
   "main": ".eleventy.js",
   "scripts": {
-    "start": "npx @t11ty/eleventy --serve"
+    "start": "npx @11ty/eleventy --serve"
   },
   "repository": {
     "type": "git",
